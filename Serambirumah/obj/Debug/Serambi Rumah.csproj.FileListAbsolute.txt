@@ -1,0 +1,22 @@
+C:\Users\USER\source\repos\Serambirumah\bin\Debug\OJO FORCE CLOSE SU.exe.config
+C:\Users\USER\source\repos\Serambirumah\bin\Debug\OJO FORCE CLOSE SU.exe
+C:\Users\USER\source\repos\Serambirumah\bin\Debug\OJO FORCE CLOSE SU.pdb
+C:\Users\USER\source\repos\Serambirumah\obj\Debug\Serambi Rumah.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Serambirumah\obj\Debug\OJO_FORCE_CLOSE_SU.Form1.resources
+C:\Users\USER\source\repos\Serambirumah\obj\Debug\OJO_FORCE_CLOSE_SU.Properties.Resources.resources
+C:\Users\USER\source\repos\Serambirumah\obj\Debug\Serambi Rumah.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Serambirumah\obj\Debug\Serambi Rumah.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Serambirumah\obj\Debug\OJO FORCE CLOSE SU.exe
+C:\Users\USER\source\repos\Serambirumah\obj\Debug\OJO FORCE CLOSE SU.pdb
+C:\Users\USER\source\repos\Serambirumah\obj\Debug\OJO_FORCE_CLOSE_SU.Login.resources
+F:\Reza Rahmat\AMIKOM\MAKEL\Semester 3\9. Pemograman Lanjut\Serambirumah\bin\Debug\OJO FORCE CLOSE SU.exe.config
+F:\Reza Rahmat\AMIKOM\MAKEL\Semester 3\9. Pemograman Lanjut\Serambirumah\bin\Debug\OJO FORCE CLOSE SU.exe
+F:\Reza Rahmat\AMIKOM\MAKEL\Semester 3\9. Pemograman Lanjut\Serambirumah\bin\Debug\OJO FORCE CLOSE SU.pdb
+F:\Reza Rahmat\AMIKOM\MAKEL\Semester 3\9. Pemograman Lanjut\Serambirumah\obj\Debug\Serambi Rumah.csproj.AssemblyReference.cache
+F:\Reza Rahmat\AMIKOM\MAKEL\Semester 3\9. Pemograman Lanjut\Serambirumah\obj\Debug\OJO_FORCE_CLOSE_SU.Form1.resources
+F:\Reza Rahmat\AMIKOM\MAKEL\Semester 3\9. Pemograman Lanjut\Serambirumah\obj\Debug\OJO_FORCE_CLOSE_SU.Login.resources
+F:\Reza Rahmat\AMIKOM\MAKEL\Semester 3\9. Pemograman Lanjut\Serambirumah\obj\Debug\OJO_FORCE_CLOSE_SU.Properties.Resources.resources
+F:\Reza Rahmat\AMIKOM\MAKEL\Semester 3\9. Pemograman Lanjut\Serambirumah\obj\Debug\Serambi Rumah.csproj.GenerateResource.cache
+F:\Reza Rahmat\AMIKOM\MAKEL\Semester 3\9. Pemograman Lanjut\Serambirumah\obj\Debug\Serambi Rumah.csproj.CoreCompileInputs.cache
+F:\Reza Rahmat\AMIKOM\MAKEL\Semester 3\9. Pemograman Lanjut\Serambirumah\obj\Debug\OJO FORCE CLOSE SU.exe
+F:\Reza Rahmat\AMIKOM\MAKEL\Semester 3\9. Pemograman Lanjut\Serambirumah\obj\Debug\OJO FORCE CLOSE SU.pdb

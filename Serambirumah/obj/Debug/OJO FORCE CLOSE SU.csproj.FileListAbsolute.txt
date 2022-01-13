@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\OJO FORCE CLOSE SU\bin\Debug\OJO FORCE CLOSE SU.exe.config
+C:\Users\USER\source\repos\OJO FORCE CLOSE SU\bin\Debug\OJO FORCE CLOSE SU.exe
+C:\Users\USER\source\repos\OJO FORCE CLOSE SU\bin\Debug\OJO FORCE CLOSE SU.pdb
+C:\Users\USER\source\repos\OJO FORCE CLOSE SU\obj\Debug\OJO FORCE CLOSE SU.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\OJO FORCE CLOSE SU\obj\Debug\OJO_FORCE_CLOSE_SU.Form1.resources
+C:\Users\USER\source\repos\OJO FORCE CLOSE SU\obj\Debug\OJO_FORCE_CLOSE_SU.Properties.Resources.resources
+C:\Users\USER\source\repos\OJO FORCE CLOSE SU\obj\Debug\OJO FORCE CLOSE SU.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\OJO FORCE CLOSE SU\obj\Debug\OJO FORCE CLOSE SU.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\OJO FORCE CLOSE SU\obj\Debug\OJO FORCE CLOSE SU.exe
+C:\Users\USER\source\repos\OJO FORCE CLOSE SU\obj\Debug\OJO FORCE CLOSE SU.pdb
